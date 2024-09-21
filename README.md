@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 todolist\src\data> npx json-server --watch db.json
+
+https://medium.com/@sukronalifti/make-simple-create-read-update-and-delete-using-react-js-e85801a755b7
